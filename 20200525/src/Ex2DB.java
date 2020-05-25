@@ -2,6 +2,9 @@ import java.sql.Connection; 				// 연결 유지 객체
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.util.Scanner;
+// java oracle
+// ms c# sqlserver
+// php mysql
 
 public class Ex2DB {
 	
